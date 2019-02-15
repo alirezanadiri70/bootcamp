@@ -1,0 +1,29 @@
+
+.container{
+    height:720px;
+    width:100%;
+    font-family: 'Dancing Script', cursive;
+    
+}
+.column{
+    height: 650px;
+    width:27%;
+    border:2px dotted cyan;
+    float:left;
+    margin-left:45px;
+    padding:10px;
+    color:white;
+    text-align: center;
+    
+}
+.img1{
+    margin:0 auto;
+    height: 400px;
+    width:228px;
+    
+}
+audio{
+    display: block;
+    margin:0 auto;
+    margin-top: 30px;
+}
